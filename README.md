@@ -26,7 +26,8 @@ A detail orientated professional who strives for perfection. I deliver products 
 
 
 # 🤝 Connect with Me 
-![Twitter](https://img.shields.io/twitter/url/https/twitter.com/JDuell_IT?style=social&label=Follow%20%40JDuell_IT)(JDuell_IT)
+![Website](https://img.shields.io/badge/Website-www.duellsoftwaredev.codes-blue?style=flat-square&logo=google-chrome)
+![Twitter](https://img.shields.io/twitter/url/https/twitter.com/JDuell_IT?style=social&label=Follow%20%40JDuell_IT)
 <p align="center">
 <a href="https://duellsoftwaredev.codes/
 /"><img alt="Website" src="https://img.shields.io/badge/Website-www.duellsoftwaredev.codes-blue?style=flat-square&logo=google-chrome"></a>

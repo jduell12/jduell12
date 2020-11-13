@@ -4,7 +4,10 @@
 A detail orientated professional who strives for perfection. I deliver products that are throughly tested and make sure match the specifications given. I am adaptable and able to work with changing requirements for any product.
 
 # Tech Stack
-- 💻 Python C++
+- 💻 
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+
 - 🌐 HTML5 CSS JavaScript Bootstrap Node.js React Express.js Reactstrap Styled-components 
 - 🗄 MySQL Postgres
 - ⚙️ Git GitHub Markdown

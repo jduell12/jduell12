@@ -43,7 +43,7 @@ A detail orientated professional who strives for perfection. I deliver products 
 # 🤝 Connect with Me 
 <p align="center">
 <a href="https://duellsoftwaredev.codes/
-/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+/"><img alt="Website" src="https://img.shields.io/badge/Website-www.duellsoftwaredev.codes-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/jessicaduell/
 "><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/JDuell_IT

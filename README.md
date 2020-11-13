@@ -45,10 +45,10 @@ A detail orientated professional who strives for perfection. I deliver products 
 <a href="https://duellsoftwaredev.codes/
 /"><img alt="Website" src="https://img.shields.io/badge/Website-www.duellsoftwaredev.codes-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/jessicaduell/
-"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jessica%20Duell-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/JDuell_IT
-"><img alt="Twitter" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:duellsoftwaredev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https://twitter.com/JDuell_IT"></a>
+<a href="mailto:duellsoftwaredev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-duellsoftwaredev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 

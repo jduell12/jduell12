@@ -26,15 +26,13 @@ A detail orientated professional who strives for perfection. I deliver products 
 
 
 # 🤝 Connect with Me 
-![Website](https://duellsoftwaredev.codes/
-)(https://img.shields.io/badge/Website-www.duellsoftwaredev.codes-blue?style=flat-square&logo=google-chrome)
-![Twitter]()(https://img.shields.io/twitter/url/https/twitter.com/JDuell_IT?style=social&label=Follow%20%40JDuell_IT)
 <p align="center">
 <a href="https://duellsoftwaredev.codes/
-/"><img alt="Website" src="https://img.shields.io/badge/Website-www.duellsoftwaredev.codes-blue?style=flat-square&logo=google-chrome"></a>
+/"><img alt="Website" src="https://img.shields.io/badge/Website-www.duellsoftwaredev.codes-blue?style=flat-square&logo=google-chrome"/></a>
 <a href="https://www.linkedin.com/in/jessicaduell/
-"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jessica%20Duell-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:duellsoftwaredev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-duellsoftwaredev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jessica%20Duell-blue?style=flat-square&logo=linkedin"/></a>
+<a href="https://twitter.com/JDuell_IT"><img alt="Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/JDuell_IT?style=social&label=Follow%20%40JDuell_IT" /></a>
+<a href="mailto:duellsoftwaredev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-duellsoftwaredev@gmail.com-blue?style=flat-square&logo=gmail"/></a>
 </p>
 
 

@@ -5,7 +5,7 @@ A detail orientated professional who strives for perfection. I deliver products 
 - 💻 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-Swift-orange)
+![iOS](https://img.shields.io/badge/iOS-Swift-orange?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 - 🌐 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
